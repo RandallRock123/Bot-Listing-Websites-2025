@@ -19,3 +19,4 @@ This is a comprehensive list of bot listing websites. Monthly search traffic dat
 | [https://botblock.org/](https://botblock.org/)                                 | 0.01k                  |
 | [https://discord-botlist.eu/](https://discord-botlist.eu/)                     | 0.0006k                |
 | [https://universe-list.com/](https://universe-list.com/)                       | 0k                     |
+![Alt Text](./Screenshot-Hero.png)
