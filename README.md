@@ -19,4 +19,24 @@ This is a comprehensive list of bot listing websites. Monthly search traffic dat
 | [https://botblock.org/](https://botblock.org/)                                 | 0.01k                  |
 | [https://discord-botlist.eu/](https://discord-botlist.eu/)                     | 0.0006k                |
 | [https://universe-list.com/](https://universe-list.com/)                       | 0k                     |
-![Alt Text](./Screenshot-Hero.png)
+
+## Featured Bot: PixEnhancer
+
+![PixEnhancer Hero Section](./Screenshot-Hero.png)
+
+### Free AI Image Upscaling for Discord Communities
+
+PixEnhancer is an AI-powered Discord bot that provides free image upscaling for entire Discord communities. Every server member gets 10 free upscales daily, making it perfect for photography, art, gaming, and creative communities.
+
+**Key Features:**
+
+- 🎯 Free tier: 10 upscales/day per member
+- 🚀 Simple command: `/upscale4x`
+- 🖼️ Supports up to 8K resolution
+- 📊 23,000+ Discord moderators trust us
+
+Try it now: [PixEnhancer.com](https://www.pixenhancer.com/)
+
+---
+
+_Note: This resource is maintained by the PixEnhancer team. Feel free to star the repo if you found it helpful!_
